@@ -43,7 +43,7 @@ tokio = { workspace = true, default-features = false, features = [
 uuid = { version = "1.10", features = ["serde", "v4"] }
 
 # WebSocket support
-tokio-tungstenite = "0.17"
+tokio-tungstenite = "0.24"
 
 # URL Parsing
 url = "2.3"
