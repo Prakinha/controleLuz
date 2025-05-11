@@ -154,3 +154,5 @@ Inspired by [petretiandrea/plugp100][inspired_by].
 [tapo_rest]: https://github.com/ClementNerma/tapo-rest
 [contributing]: https://github.com/mihai-dinculescu/tapo/blob/main/CONTRIBUTING.md
 [inspired_by]: https://github.com/petretiandrea/plugp100
+#   c o n t r o l e L u z  
+ 
